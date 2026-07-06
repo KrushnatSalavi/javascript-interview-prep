@@ -5,7 +5,7 @@ const removeDuplicate = function (arr) {
 
     })
 
-    console.log(uniqueNum)
+    return uniqueNum
 }
 
 const uniquenum = removeDuplicate([1,22,1,2,33,22,65,55,2])
