@@ -5,6 +5,7 @@ function findSecondLargest(arr) {
     let largest = -Infinity;
     let secondLargest = -Infinity;
 
+    
     for (let num of arr) {
         if (num > largest) {
 
